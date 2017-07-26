@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="@drawable/background_posts">
+
+    <ImageView
+        android:id="@+id/photo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        />
+    <TextView
+
+        android:id="@+id/name"
+
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:orientation="vertical"
+        android:layout_weight="0.05"
+        style="@style/PostName"
+        />
+
+    <ImageView
+        android:id="@+id/fav"
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:gravity="right"
+        android:layout_weight="0.05"
+        android:src = "@drawable/favorites_off"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="false" />
+
+    <ImageView
+        android:id="@+id/detail"
+
+        android:layout_width="20dp"
+        android:layout_height="30dp"
+        android:gravity="right"
+        android:layout_weight="0.07"
+        android:src = "@drawable/details"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="false" />
+
+</LinearLayout>

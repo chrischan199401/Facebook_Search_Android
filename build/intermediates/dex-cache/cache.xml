@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_41a8f34a8bb2108e670f73d84dd0d3f16987f5da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c5494e7e701a35f41ef38392b4d69b0f252289a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/d1dfed46d4c41155ea939d21d51e8025bf83327d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13fd4107bdddf1e6594975640f81596eea73ba79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/73a45cb14baf885d9bdbc9079bb84d1d62b7c740/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20bee178cd466e0a21a5911381cbb0d3da1a075f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/a14cfcca7ab567fc2d261315b64ccf7fbb7d7b5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30d67e984e379223f962b90a140e51991f091c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/f1485459345f9afaec03247a0d725f8c8cc293a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="163a02912c05c6ffb9ba560f9ecc6f604fa9e455">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c2ee566465b347a5df79eb3d5e63089128cf50b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/AndroidStudioProjects/MyApplication/app/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_814a04cc0005085a423094a42546ffd4c72040bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_b6a0d6df596918f2187f268bb91a2dc896994736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/708c4510932d6a33073b2ec4e3085084088c9941/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59029b95c69a136b96f5b5eb83b117952ecf25c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/d6e101c7abb12933c790503770d6531bb6f25008/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06a3fca88088a8fc07109fb331b3db5750e4a181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0491e047c1b241fd21453f38bf68f9ee9b95d11">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cb634d62b44569de44d69d44d26524c08f9ee5b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/f6ff502bd3b05c938703cc979acdcf58e731ec08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f721b0948ae2b07d8f758bacd51ff8679f486ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/4684dbf9271945b07d7de3881c638697aa19820e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1372789963b060e700d120a46cf01201e16759d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/bb9a08cde700b302da1aeb6d17bcff00cfbf24f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6fb51611366729658151dfd5c2a6427ad9e6b4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/b57cb9b14ea277c190cdc5f9f3e5dd0402f54d21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a82781c164b761353d12577ebf52d3892b3d04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/204c97dbcb779ffeba9679d25253de23a097e427/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c1ebadbd51298c6f12644bc8391d0f83c97f0ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/5ba8dfc5d4b5bfaa1d6b36a9a0262eddf5699724/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50a7eb9160c3576c6a0eef386bc83599a521453b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_85ed400bd5f5434c26044583897e6166414b110d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/e489ca69ee5d545100b5111f6b564006e2a61fe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fbb0b364310fb1388edc5b5e182000053b6c8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/6fe2f866bea88ea2bb8354d31a44e1821d2237df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ed007342454bd81c41ebf72ce2301721adba91d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/8923b56bdbf9538473472356c140f4d56ff1e794/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8a2f67fd5522ee5b5b91402cc47724ce0b32484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6f547ae4e0b1f4fe4d2fbc769ff9fdff53519fdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischan/.android/build-cache/95cf00e930de9f2515ba3e8c355a5c0df98dc750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/chrischan/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8dd9fcd3c1b0e3957ec9847740853fb2428cfad/classes.dex" />
+    </item>
+
+</items>
